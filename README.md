@@ -1,6 +1,6 @@
 # Deniz Yarpınar
 
-Student in Germany. I build the tools I need for myself, then make them good enough for
+Informatics student in Germany. I build the tools I need for myself, then make them good enough for
 other people to use.
 
 ---
@@ -22,7 +22,7 @@ I built it because I was learning German and kept hitting the same wall: isolate
 don't stick, but a B1 learner cannot write the sentence that would make them stick. The
 app automates the part everyone skips — the content of the card.
 
-- **Live app:** https://wortschatz-two.vercel.app
+- **Live app:** https://meinwortschatz.app
 - **Source:** private — it's a product I'm preparing to launch. Happy to walk through the
   code on request.
 
