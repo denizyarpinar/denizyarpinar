@@ -7,7 +7,7 @@ other people to use. Two of them are below: one keeps my semester in order, the 
 
 ## Defter — my study notes as books in a 3D study room
 
-**Live** · [defter-jade.vercel.app](https://defter-jade.vercel.app) · sign in with Google · [source](https://github.com/denizyarpinar/defter)
+**Live** · [mydefter.app](https://mydefter.app) · sign in with Google · [source](https://github.com/denizyarpinar/defter)
 
 <p align="center">
   <img src="defter-room.png" width="24%" alt="Study room with bookshelves">
